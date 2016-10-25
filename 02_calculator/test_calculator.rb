@@ -50,7 +50,7 @@ class TestCalculator < MiniTest::Test
   def test_multiplies_several_numbers
   end
 
-# http://en.wikipedia.org/wiki/Factorial
+ # http://en.wikipedia.org/wiki/Factorial
   def test_computes_factorial_0
   end
 
